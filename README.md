@@ -1,0 +1,2 @@
+# getcomp
+my site compucter
